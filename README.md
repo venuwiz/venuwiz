@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @venuwiz
-- 👀 I’m interested in building software from scratch and performing PMF on it. So I spend my time either in rapid prototyping or building MVP for my ideas.
+- 👀 I’m interested in building software from scratch and user testing it. So I spend my time either in rapid prototyping or building MVP for my ideas.
 - 🌱 I’m currently learning entrepreneurship to master the Lean Startup methodology.
 - 💞️ I’m looking to collaborate on building software products. I'll be interested in helping my network to build products and also learn from them on how to build mine.
 - 📫 How to reach me : Kindly open a discussion this repository.
