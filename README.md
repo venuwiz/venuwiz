@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @venuwiz
-- 👀 I’m interested in building software from scratch and user testing it. So I spend my time either in rapid prototyping or building MVP for my ideas.
+- 👋 Hi, I’m @venuwiz a full stack expert and a system architect.
+- 👀 My passion is to build planet scale software which breaks through walls of bureaucracy and allow humans to explore the open world with full expression of their talent.
 - 🌱 I’m currently learning entrepreneurship to master the Lean Startup methodology.
-- 💞️ I’m looking to collaborate on building software products. I'll be interested in helping my network to build products and also learn from them on how to build mine.
+- 💞️ I’m looking to collaborate and co-build cool platforms. I'll be interested in helping my network to build products and also learn from them on how to build mine.
 - 📫 How to reach me : Kindly open a discussion this repository.
